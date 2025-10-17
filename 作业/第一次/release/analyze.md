@@ -1,0 +1,39 @@
+Pros:
+- Content:
+    - Clear structure:
+        - Logically organized
+            -Introduction/Hook
+            - Why
+            - What
+            - How
+                - Positive
+                - Negative
+            - Conclusion
+        - Always relevant to the topic (Do small conclusions)
+    - Filled with examples and stories
+        - Every point can be illustrated with a story or example
+        - Examples are close to our life
+- Presence:
+    - Physical presence
+        - Use gestures and facial expressions to make the audience feel engaged
+        - Use humor to make the audience laugh to relax the atmosphere
+        - Stage Movement
+            - Move a few steps to the side to signal a transition to a new point.
+            - Plant feet when making a critical argument. This shows conviction.
+        - Eye contact
+            - Includes every corner
+        - Interact with audience
+            - Asking questions and answering them
+            - Put audiences in a example
+    - Vocal presence
+        - Use a clear voice
+        - Parallelism and repetition to Enhance momentum and immersion
+        - Use various pace, tones and rhythm to make audience focus.
+Cons:
+- Content:
+- Presence:
+    - Weak Posture
+        - It looks like he's kind of nervous at first.(Always put his hands in pockets, doesn't stand tall at first)
+    - Doesn't give the audiences enough respect
+        - He doesn't greet the audiences nor does he thank them for listening to his talk.
+    - In a few seconds when express his ideas, he talked to fast. Actually, he paused, giving audience time to think and understand, but I think the pause is too short and the pace is too fast.
