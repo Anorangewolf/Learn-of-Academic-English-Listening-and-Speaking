@@ -1,4 +1,5 @@
 Pros:
+
 - Content:
     - Clear structure:
         - Logically organized
@@ -30,6 +31,7 @@ Pros:
         - Parallelism and repetition to Enhance momentum and immersion
         - Use various pace, tones and rhythm to make audience focus.
 Cons:
+
 - Content:
 - Presence:
     - Weak Posture
