@@ -1,0 +1,107 @@
+﻿In this class, we'll complete the listening task by focusing on two parts. Last time we used this software, right? This is a lecture. When listening to a lecture, you should know it's similar to teachers' classes. Lectures typically contain substantial knowledge, so you must understand the main subject. We learned this in our first class.
+
+Now we understand the relationship between software developers and testers. We'll listen to this again and work out the correct answers. Please open your textbooks to Page 9. 
+
+A lecture differs from a scientific report. Scientific reports present research findings, methods, and solutions, while lectures explain topics, often including related history and knowledge points. Lectures typically follow this structure: first raising a research question, then presenting solutions, and finally explaining the research methods. 
+
+For effective listening, we need to make predictions. Look through all questions on Page 9 and identify the most frequent words to predict the topic. Examine options vertically to spot differences - these are key points to focus on while listening. 
+
+The lecture likely concerns software development and testing. In software companies, there are typically two teams: one develops the software, another improves it from functional to excellent. Remember, the lecture's beginning is most critical as it presents the main topic. 
+
+Let's listen to the opening: "Yesterday we talked about the software development cycle..." Today's focus is testing. The complete lecture will help us understand that creating good software requires distinct roles cooperating. 
+
+For longer recordings (over 5 minutes), maintaining focus is challenging. We'll analyze questions to determine the lecture's main purpose: explaining how different roles collaborate in software creation. One question explores the origin of the term "bug" for computer problems - Option C suggests it comes from an incident.
+
+The term "bug" in computing originated from an actual incident where an insect interfered with an early computer's function. This historical anecdote is well-known in computer science education. A similar situation occurred when a maintenance worker accidentally left a tool inside an airplane during repairs, causing persistent operational issues until the tool was discovered.
+
+Regarding software development characteristics, the professor emphasizes its creative nature - developers focus on building new systems rather than detecting problems. Testers typically have better understanding of potential issues since they comprehend the product's architecture. This represents a natural division of labor between development and testing roles.
+
+The lecture discusses two project team approaches: Project Unity and Project Split. Unity represents integration, where developers and testers collaborated effectively through good planning and communication, leading to high efficiency. In contrast, Split emphasizes separation between these roles.
+
+Key points about team efficiency:
+1. Effective teams focus on comprehensive planning during testing meetings rather than just fixing major issues
+2. Successful collaboration requires open-mindedness - developers shouldn't be defensive when testers identify problems
+3. Defensiveness refers to resisting criticism; better outcomes occur when team members remain receptive to feedback
+
+The recording suggests that analyzing long questions requires focusing on key elements while ignoring irrelevant information. When comparing options, identify common themes first (like team dynamics vs. individual roles), then examine differences between similar choices. This approach helps determine the most logical answer efficiently.
+
+The Split Project differed from the Unity Project in several key aspects. While both produced software products, their approaches varied significantly. The Unity Project emphasized unity and performed well, whereas the Split Project (meaning division) faced challenges. 
+
+When analyzing the options: 
+- Option A suggested quick market launch (likely incorrect as it appears advantageous)
+- Option B indicated stricter testing (seems positive)
+- Option C mentioned more careful development (also positive)
+- Option D pointed to low quality (likely correct as the opposite of Unity's success)
+
+Prediction is crucial for students - it directly impacts answer location and requires focused attention. Energy allocation and advance predictions make listening comprehension easier. 
+
+The lecture focused on two distinct roles: developers and testers. These groups differ fundamentally in:
+1. Their ways of thinking/mindset
+2. Approaches to work
+Developers spend long hours creating new software, making them creative and productive. However, they may overlook certain technical issues. Testers examine products, identify problems, and implement improvements. 
+
+This difference in perspectives can sometimes create collaboration challenges. Successful teamwork requires open-mindedness - developers shouldn't be defensive when testers provide feedback. Defensiveness (resisting criticism) hinders progress, while receptivity to feedback leads to better outcomes.
+
+For vocabulary development, consider Benjamin Franklin's method: constantly rephrasing expressions to expand your lexical range. When uncertain about terms like "constructive," tools like AI assistants can provide accurate synonyms like "productive" (effective in producing results).
+
+The difference between developer and tester teams can lead to collaboration challenges. Testers examine products, identify problems, and implement improvements, while developers focus on creation. This divergence in perspectives sometimes causes friction in teamwork.
+
+Potential conflicts may arise in several forms:
+- Disputes over problem identification
+- Differences in problem-solving approaches
+- Extended testing timelines
+- Defensive reactions to feedback
+
+For effective collaboration, both teams need:
+1. Patience and mutual understanding
+2. Regular communication through defect meetings
+3. Open-mindedness when receiving feedback
+4. Willingness to cooperate despite differing viewpoints
+
+Vocabulary note: The word "conflict" (pronounced /ˈkɒnflɪkt/) refers to disputes or disagreements. Related terms include "friction" and "quarrel" in collaborative contexts. When encountering unfamiliar words, immediate dictionary consultation aids retention.
+
+Classroom management reminder:
+- Group leaders should proactively organize materials
+- Video resources should be shared 1-2 days before class
+- Members must complete assigned tasks on schedule
+- Physical grouping facilitates better teamwork
+
+Key observation: Teams often adopt opposing positions ("sitting on opposite sides" metaphorically), leading to extended processes and suboptimal outcomes when defensiveness prevails. The solution lies in establishing cooperative communication channels where both sides can discuss problems and solutions openly.
+
+Last semester, we learned about academic writing—we wrote summaries of some materials. You'll listen to a recording and write a summary. The basic requirements for a summary are: focus on core viewpoints briefly, make them clear without going into details. It's not a dictation—you can use your own words. Five or six sentences are enough—don't make it too long. 
+
+We need a basic structure: first write a topic sentence summarizing the main content, then state the basic viewpoints. Don't include specific examples or personal opinions—only state the original text's viewpoints using third person. For example, if discussing software developers and testers, you might say: "The passage discusses the relationship between software developers and testers, emphasizing that they should cooperate and communicate well for smooth workflow."
+
+Now let's discuss this topic in groups. Team leaders, gather your members. If you're having trouble, come here first or find a spot to discuss. Teamwork is crucial—developers and testers need to collaborate effectively. When testers find problems, they should communicate with developers to understand their thinking. Previously, both sides worked separately without communication, leading to conflicts. Now they discuss issues together through meetings and dialogue.
+
+Key points about teamwork:
+1. Unity and collaboration are essential
+2. Humans and communication are more important than code
+3. Developers shouldn't be defensive about mistakes
+4. Different roles complement each other - developers focus on creation, testers on detection
+5. Patience is key for resolving conflicts and waiting for others' progress
+6. Being open to others' ideas improves cooperation
+
+The division between developers and testers reflects analytical thinking—tasks are divided for efficiency, similar to assembly lines. However, team members should adopt others' perspectives rather than sticking to fixed mindsets. 
+
+For presentations, try to speak without notes eventually. Take notes of just 3 key words to remember your points. When you see others doing well, learn from them—how did they think of so many points? Aim to improve each time. 
+
+Next week, try sitting closer together for better discussion, though it might feel uncomfortable at first. This will be helpful for the exam format where you'll listen to audio and write summaries. Remember, focus on core viewpoints and clear structure in your writing.
+
+Each student will need to deliver a presentation as part of a group activity for the final exam. This must be memorized - you cannot read from materials. You'll stand at the front, paying attention to facial expressions and hand gestures. This is more demanding than simply reading aloud; we expect a real speech performance.
+
+A proper presentation is a formal, well-prepared talk with three key elements: the audience, content, and presenter. These must work together harmoniously. Always consider your audience - whether classmates now or future professional situations like product promotions or academic conferences. The content should be carefully structured with clear organization to make your points understandable.
+
+The primary purpose is to inform and persuade. For academic presentations specifically, you must present your own research, not others' work. Revise previous papers if needed, but show progress from earlier versions. Group discussion is essential to decide on content.
+
+Three criteria define a good academic presentation:
+1. Thorough understanding of topic and audience. Identify key points and focus on them, avoiding superficial analysis. Consider what your audience (including teachers evaluating you) wants to gain from your talk.
+2. Clear structure with logical progression. Each section should cover distinct points without repetition. Content depth is crucial - present insights beyond common knowledge with accurate information.
+3. Fluent English delivery achieved through repeated practice. Visual aids like PPTs should support but not dominate - minimal text, facing the audience, and avoiding reading from slides.
+
+GFB (Gestures, Facial expressions, Body movement) is vital:
+- Natural, moderate gestures
+- Pleasant facial expressions (avoid nervous stiffness)
+- Controlled body movements (no distracting habits)
+
+After class, watch the provided speech video to analyze its strengths and areas for improvement. Next week, each student will have 15 minutes to present their analysis, practicing critical evaluation skills.
