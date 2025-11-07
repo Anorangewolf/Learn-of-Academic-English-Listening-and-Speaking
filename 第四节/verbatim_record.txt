@@ -1,0 +1,39 @@
+﻿Let's review the three basic steps for presentations: planning, preparation, and presenting. During preparation, keep your goals in mind and consider how to make your audience understand. Focus on your key message - what content are you delivering? It's not just about giving a report, but about what you want your audience to know.
+
+When preparing your structure, think carefully about your introduction. For our 5-minute academic English speech contest, we need detailed preparation. There are various techniques for starting a speech: telling a story, asking questions, or presenting surprising facts with data. The basic structure should include: introduction outline, main body (you can photograph this as reference), conclusion, and a reference section - which is essential for academic reports.
+
+Shang Wenjie's language learning method is worth sharing. As a Fudan graduate and skilled French singer, she practiced by downloading 20-minute French news segments daily. Without reference materials, she would repeatedly listen and dictate, consulting teachers when needed. After memorizing the material thoroughly for about 4 months (studying up to 15 hours daily), she achieved fluency. This intensive immersion approach proves effective for rapid language acquisition.
+
+While you may not have 15 hours daily, setting aside 20-30 minutes each morning for dictation practice can significantly improve your English. This is especially important for those taking CET-4 or CET-6 exams. There's no magic shortcut - consistent memorization and practice are key to solidifying your English skills.
+
+English remains crucial for future academic and professional development. Modern English studies focus on international country-specific research (politics and culture) rather than just literature. Whether for scientific exchange, postgraduate studies, or paper writing, English is an essential tool. Reading English articles broadens perspectives beyond what Chinese materials alone can offer. I encourage you to take this seriously - even memorizing just 5 minutes of material daily can make a difference. 
+
+Since our materials are long, you’ll need to listen to most materials after class. We’ll discuss and play key sections during class time. The lecture discusses big data's importance through an apple pie example. When supermarkets sold 30cm pies, apple was the top seller as it's everyone's second favorite - the compromise choice for families. But with 11cm individual pies, apple sales dropped to fourth place as people could choose their actual favorites. This shows how more data reveals different insights - America's true favorite pie isn't apple when people can choose freely.
+
+Big data's value lies in helping us see more, see differently, and see better. It transforms how we understand things, but also has a dark side. Potential drawbacks include prediction errors (like police misidentifying crime hotspots) and job displacement as data analysis replaces human roles. We must master this technology rather than become its slaves. Tools like ChatGPT can provide unverified data that might lead to academic fraud if not carefully checked.
+
+The speaker emphasizes that while big data will transform our lives, work and thinking, we must focus on the information ("I") rather than just the technology ("T"). It should help us manage careers and live satisfying lives, but we must be careful not to let it limit our perspectives or control us. Like fire, it's a powerful tool that can burn us if mishandled.
+
+Regarding presentation skills observed in the video: The speaker moves calmly on stage with academic gestures, maintaining eye contact without notes. His PowerPoint uses minimal text, mostly images, to keep audience focus on his speech. This technique - seen in great speakers like Steve Jobs - prevents visual clutter and enhances concentration. The steady demeanor, appropriate movement and visual aids make for effective presentations we should learn from.
+
+Hmm, did I not tell you? Let's have one group do their presentation first (every group will present by semester's end). We'll analyze their strengths and areas for improvement, discuss together, and use them as our model. We can record their presentation and post it online—then they won't need to present again later. The first group will receive extra points as encouragement for their initiative. Progress comes from taking action. Is any group willing to go first?
+
+In Week 10, each member (groups of 3-5 people) will speak for 3-5 minutes. Choose your own topic following the requirements I've sent. Practice your delivery—stand properly, design gestures, and maintain eye contact. Don't just read from the screen. We'll provide feedback beforehand so you can improve. Next time I'll show more exemplary videos.
+
+The presentation should be structured: one introduces the topic, another discusses methodology, someone presents results, etc. Use minimal text on slides—focus on visuals for experimental results. Memorize your content completely. Our brave first group—perhaps the boys could volunteer? Review speech techniques after class. I'll share materials for those wanting to improve their English.
+
+Now let's discuss Chapter 2, Unit 2. Turn to page 21 for academic listening—an interview about AI, this era's defining theme. Last year's Nobel Prize went to John Hopfield and Jeffrey Hinton for machine learning advancements. 
+
+The interview discusses concerns about artificial intelligence surpassing human control. Prominent thinkers warn that full AI development could endanger humanity.
+
+Human civilization stands at a unique threshold—after 100,000 years, we approach a posthuman era where superintelligence might dominate for billions of years. Once created, superintelligence's actions would determine humanity's fate. Unlike global warming (which many address), we lack mechanisms to "un-invent" dangerous technologies.
+
+The critical question remains: if we create machines smarter than humans, how can we ensure they remain beneficial and aligned with human values? Advanced AI represents a pivotal transition point for our species. Human intelligence, while enabling civilization, likely isn't the highest possible intelligence level—we may be the minimally intelligent species capable of creating technology.
+
+Computer superintelligence is still far from sci-fi depictions, but prominent leaders and thinkers have been warning about the coming risks. The full development of artificial intelligence could spell the end of the human race. AI represents a fundamental existential risk for human civilization that many don't fully understand.
+
+Looking back at our species' 100,000-year history, we now stand at the threshold of transitioning to a posthuman era where superintelligence may colonize the universe and persist for billions of years. The greatest risks come from anticipated technologies like machine superintelligence, nanotechnology, and synthetic biology. Unlike global warming, we lack mechanisms to "un-invent" dangerous technologies once created.
+
+For years, philosopher Nick Bostrom has been the most prominent thinker about superintelligence's benefits and dangers. While there are ways to invest in humanity like supporting charities, Bostrom focuses on mitigating existential risks—those threatening to wipe out humanity entirely. At Oxford's Future of Humanity Institute, he leads a team studying how to best invest in humanity's future.
+
+The fundamental problem is our inability to un-invent anything we create. We cannot put the genie back in the bottle—once knowledge is published, civilization is stuck with it permanently, just as we can't return to an internet-free world. This technological irreversibility makes managing AI development crucial for our survival.
